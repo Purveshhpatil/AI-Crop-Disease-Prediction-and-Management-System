@@ -1,0 +1,1 @@
+# AI-Crop-Disease-Prediction-and-Management-System
