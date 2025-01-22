@@ -17,9 +17,35 @@ The AI Driven Crop Disease Prediction and Management System is designed to help 
 ### Prerequisites
 - Python 3.6 or higher
 - Git
+## Environment
+ **Create a virtual environment:**
+    ```sh
+    python -m venv myenv
+    ```
+
+3. **Activate the virtual environment:**
+    - On Windows:
+        ```sh
+        myenv\Scripts\activate
+        ```
+    - On macOS/Linux:
+        ```sh
+        source myenv/bin/activate
+        ```
+
+4. **Install the required packages:**
+    ```sh
+    pip install -r requirement.txt
+    ```
 
 ## Usage
 1. **Run the Streamlit application:**
+    ```sh
+    streamlit run main.py
+    ```
+
+## Usage
+1. **Run the Streamlit application**
   
 2. **Upload an image:**
     Use the interface to upload an image of a plant leaf.
@@ -56,7 +82,7 @@ It should be your API Private key so use it safely.
     Navigate to the API section in your account settings and create a new API key. Make sure to note down the API key and secret.
 
 ### Save the API Key
-1. **Create a [.streamlit] directory:**
+1. **Create a [.streamlit] directory**
     create a [.streamlit] directory in the root of your project.
 
 2. **Create a `secrets.toml` file:**
@@ -72,5 +98,5 @@ It should be your API Private key so use it safely.
     ,
 
 ## Contributing
-Contributions are welcome! Please follow these steps to contribute:
+Contributions are welcome! 
 
