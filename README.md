@@ -28,14 +28,14 @@ The proposed project is an AI-Driven Crop Prediction and Management System, whic
         ```
 
 4. **Install the required packages:**
-  /n tensorflow==2.10.0
-   scikit-learn==1.3.0/n
+   tensorflow==2.10.0
+   scikit-learn==1.3.0
    numpy==1.24.3/n
-   matplotlib==3.7.2/n
-   seaborn==0.13.0/n
-   pandas==2.1.0/n
-   streamlit/n
-   librosa==0.10.1/n
+   matplotlib==3.7.2
+   seaborn==0.13.0
+   pandas==2.1.0
+   streamlit
+   librosa==0.10.1
 
 ## Usage
 1. **Run the Streamlit application:**
