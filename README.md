@@ -73,11 +73,10 @@ It should be your API Private key so use it safely.
     Navigate to the API section in your account settings and create a new API key. Make sure to note down the API key and secret.
 
 ### Save the API Key
-1. **Create a [.streamlit] directory**
-    create a [.streamlit] directory in the root of your project.
+1. **Create a [.streamlit] directory in the root of your project.**
 
 2. **Create a `secrets.toml` file:**
-    Inside the [.streamlit] directory, create a file named `secrets.toml`.
+    Inside the .streamlit directory, create a file named `secrets.toml`.
 
 3. **Add your API key to `secrets.toml`:**
     Open the `secrets.toml` file and add the following content:
