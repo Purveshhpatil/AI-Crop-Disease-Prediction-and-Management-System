@@ -78,15 +78,6 @@ It should be your API Private key so use it safely.
 2. **Create a `secrets.toml` file:**
     Inside the .streamlit directory, create a file named `secrets.toml`.
 
-3. **Add your API key to `secrets.toml`:**
-    Open the `secrets.toml` file and add the following content:
-    ```toml
-    [gemini]
-    api_key = "your_api_key"
-    api_secret = "your_api_secret"
-    ```
-    ,
-
 ## Contributing
 Contributions are welcome! 
 
