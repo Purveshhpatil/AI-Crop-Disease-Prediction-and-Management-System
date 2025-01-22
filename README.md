@@ -38,10 +38,6 @@ The proposed project is an AI-Driven Crop Prediction and Management System, whic
     ```sh
     streamlit run main.py
     ```
-
-## Usage
-1. **Run the Streamlit application**
-  
 2. **Upload an image:**
     Use the interface to upload an image of a plant leaf.
 
