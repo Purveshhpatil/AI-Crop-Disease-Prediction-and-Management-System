@@ -1,5 +1,5 @@
 # AI-Crop-Disease-Prediction-and-Management-System
-The proposed project is an AI-Driven Crop Prediction and Management System, which leverages machine learning and computer vision technologies. This system enables farmers to identify the diseases of plants, while also offering tailored recommendations for disease management and prevention. By addressing both the detection and management aspects, the AI-Driven Crop Prediction and Management System aims to enhance agricultural practices, promote sustainable farming, and ultimately improve food security. The system uses a convolutional neural network (CNN) model trained on a dataset of plant images.
+This Project leverages machine learning and computer vision technologies. This system enables farmers to identify the diseases of plants, while also offering tailored recommendations for disease management and prevention. By addressing both the detection and management aspects, the AI-Driven Crop Prediction and Management System aims to enhance agricultural practices, promote sustainable farming, and ultimately improve food security. The system uses a convolutional neural network (CNN) model trained on a dataset of plant images.
 
 ## Features
 - Web-based interface using Streamlit
