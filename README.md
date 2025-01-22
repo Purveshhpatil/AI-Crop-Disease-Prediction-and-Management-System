@@ -46,6 +46,7 @@ To train the model, follow these steps:
    
 ## Gemini API Key Setup
 To use the Gemini API, you need to create an API key and save it in the appropriate location.
+It should be your API Private key so use it safely.
 
 ### Steps to Create an API Key
 1. **Sign up or log in to Gemini:**
@@ -55,11 +56,11 @@ To use the Gemini API, you need to create an API key and save it in the appropri
     Navigate to the API section in your account settings and create a new API key. Make sure to note down the API key and secret.
 
 ### Save the API Key
-1. **Create a [.streamlit](http://_vscodecontentref_/3) directory:**
-    If it doesn't already exist, create a [.streamlit](http://_vscodecontentref_/4) directory in the root of your project.
+1. **Create a [.streamlit] directory:**
+    create a [.streamlit] directory in the root of your project.
 
 2. **Create a `secrets.toml` file:**
-    Inside the [.streamlit](http://_vscodecontentref_/5) directory, create a file named `secrets.toml`.
+    Inside the [.streamlit] directory, create a file named `secrets.toml`.
 
 3. **Add your API key to `secrets.toml`:**
     Open the `secrets.toml` file and add the following content:
@@ -70,22 +71,6 @@ To use the Gemini API, you need to create an API key and save it in the appropri
     ```
     ,
 
-## follow this video for full understanding 
-https://youtu.be/TRo9EpnE7AI?si=jjlN92PKxAgWrOw7
-
-##download this files
-https://drive.google.com/file/d/1OK9jIeN8ErK-5sWHYvrsS9La2JNldMcL/view
-
-
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Create a new Pull Request.
-
-## License
-This project is licensed under the MIT License.
