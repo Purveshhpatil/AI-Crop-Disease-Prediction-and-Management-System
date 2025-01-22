@@ -22,10 +22,6 @@ The proposed project is an AI-Driven Crop Prediction and Management System, whic
         ```sh
         myenv\Scripts\activate
         ```
-    - On macOS/Linux:
-        ```sh
-        source myenv/bin/activate
-        ```
 
 4. **Install the required packages:**
    tensorflow==2.10.0
